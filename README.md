@@ -4,3 +4,4 @@ A Real time chat application which sends and receives messages effortlessly
 2. Open your terminal and cd into the repo.
 3. Run the python application using  the command "python main.py"
 4.Open the local host address on your browser.
+5.send a text message to other host.
